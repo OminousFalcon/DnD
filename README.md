@@ -5,7 +5,9 @@ This is a litle intro and instruction list for starting our DnD 5e Adventure. It
 
 ##Manuals
 [Storm King's Thunder](https://github.com/OminousFalcon/DnD/blob/main/Storm%20King's%20Thunder.pdf)
+
 [Volo's Guide to Monsters] (https://github.com/OminousFalcon/DnD/blob/main/Volo's%20Guide%20to%20Monsters.pdf)
+
 [DnD 5e Monsters Manual] (https://github.com/OminousFalcon/DnD/blob/main/Volo's%20Guide%20to%20Monsters.pdf)
 
 ## Important Programs
