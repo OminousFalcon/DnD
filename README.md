@@ -33,6 +33,7 @@ We will be using 2 main programs for running the campaign, andf you will need ac
 4. After creating a Character. and filling out the form, save the pdf. Titling the file: yourname_charactername.pdf
     1. If applicable title The Spellcasting Sheet: yourname.charactername.spellcasting.pdf
     2. If you have any images or pictures you want representing your character, also send me that file. 
+    3. Either Upload your files into discord (dragging and dropping into the channel) or email them to me (bobojojo789@yahoo.com)
 5. I will compile your character and import it into Roll20 for our campaign. Once in Roll20 we can level up, add items, change stats there. 
 	1. If you like, you can update your own personal character sheet as we go also. 
     
