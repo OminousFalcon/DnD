@@ -49,7 +49,7 @@ We will be using 2 main programs for running the campaign, andf you will need ac
     
 ## Playing the Game
 Come Game time, we hop into discord and Roll20, and Play! simple as that. 
-    1. In Roll20 youll be able to 
+1. In Roll20 youll be able to 
     	1. Move your charcter
 	2. Roll Dice
 	3. Do whatever the fuck you's like. 
