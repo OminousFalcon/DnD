@@ -23,9 +23,9 @@ We will be using 2 main programs for running the campaign, andf you will need ac
 
 *Creating a character*
 1. Download [Character Sheet](https://github.com/OminousFalcon/DnD/blob/main/Character%20Sheet%20-%20Form%20Fillable.pdf) This should be editable in broweser.
-            1a. Fill out this form as you follow through Character Creation.   
-            1a. If your character casts spells, Download [Spell Casting Sheet](https://github.com/OminousFalcon/DnD/blob/main/Spellcasting%20Sheet%20(Optional)%20-%20Form%20Fillable.pdf)
-2. Who do you want to be? There are 9 basic races and 12 classes. Mix and match however you would like. All info on classes and races are found in the [Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf)\
-    2a. Chapter 1 in the [The Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf) describes character creation in important detail. (pages 8-12)
+    1. Fill out this form as you follow through Character Creation.
+        2. If your character casts spells, Download [Spell Casting Sheet](https://github.com/OminousFalcon/DnD/blob/main/Spellcasting%20Sheet%20(Optional)%20-%20Form%20Fillable.pdf)
+2. Who do you want to be? There are 9 basic races and 12 classes. Mix and match however you would like. All info on classes and races are found in the [Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf)
+    1. Chapter 1 in the [The Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf) describes character creation in important detail. (pages 8-12)
 3. After creating a Character. and filling out the form, save the pdf. Titling the file: yourname_charactername.pdf
 
