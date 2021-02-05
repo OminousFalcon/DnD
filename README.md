@@ -19,4 +19,4 @@ We will be using 2 main progreams for running the campaign, andf you will need a
 ## Creating a Character
 
 [The Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf)
-            Hit the Download button after clicking this link to download the file locally (Highly recommend doing this, you will likely refer to this alot)
+           1. Hit the Download button after clicking this link to download the file locally (Highly recommend doing this, you will likely refer to this alot)
