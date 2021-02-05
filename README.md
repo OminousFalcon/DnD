@@ -3,6 +3,11 @@
 Hi All,
 This is a litle intro and instruction list for starting our DnD 5e Adventure. It is by no means comprehensive, but should help aid and answer some questions. If you end up using other sources, we are playing 5th Edition. 
 
+##Manuals
+[Storm King's Thunder](https://github.com/OminousFalcon/DnD/blob/main/Storm%20King's%20Thunder.pdf)
+[Volo's Guide to Monsters] (https://github.com/OminousFalcon/DnD/blob/main/Volo's%20Guide%20to%20Monsters.pdf)
+[DnD 5e Monsters Manual] (https://github.com/OminousFalcon/DnD/blob/main/Volo's%20Guide%20to%20Monsters.pdf)
+
 ## Important Programs
 
 We will be using 2 main programs for running the campaign, andf you will need accounts for both of them. 
@@ -38,7 +43,7 @@ We will be using 2 main programs for running the campaign, andf you will need ac
 	1. If you like, you can update your own personal character sheet as we go also. 
     
 ## Playting the Game
-    Come Game time, we hop into discord and Roll20, and Play! simple as that. 
+Come Game time, we hop into discord and Roll20, and Play! simple as that. 
     1. In Roll20 youll be able to 
         1. Move your charcter
         2. Roll Dice
