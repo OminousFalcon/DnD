@@ -17,3 +17,4 @@ We will be using 2 main progreams for running the campaign, andf you will need a
     5. Double click the intended voice channel and come talk to us fantastic people. 
 
 ## Creating a Character
+The Players Handbook
