@@ -28,5 +28,9 @@ We will be using 2 main programs for running the campaign, andf you will need ac
 2. Who do you want to be? There are 9 basic races and 12 classes. Mix and match however you would like. All info on classes and races are found in the [Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf)
     1. Chapter 1 in the [The Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf) describes character creation in important detail. (pages 8-12)
 3. After creating a Character. and filling out the form, save the pdf. Titling the file: yourname_charactername.pdf
-    1. Title The Spellcasting Sheet yourname.charactername.spellcasting.pdf
+    1. If applicable title The Spellcasting Sheet: yourname.charactername.spellcasting.pdf
+    2. If you have any images or pictures you want representing your character, also send me that file. 
+4. I will compile all off your character 
+
+
 
