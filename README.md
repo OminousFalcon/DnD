@@ -47,7 +47,7 @@ We will be using 2 main programs for running the campaign, andf you will need ac
 5. I will compile your character and import it into Roll20 for our campaign. Once in Roll20 we can level up, add items, change stats there. 
 	1. If you like, you can update your own personal character sheet as we go also. 
     
-## Playting the Game
+## Playing the Game
 Come Game time, we hop into discord and Roll20, and Play! simple as that. 
     1. In Roll20 youll be able to 
         1. Move your charcter
