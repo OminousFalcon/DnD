@@ -1,11 +1,11 @@
 # DnD
 
 Hi All,
-This is a litle intro and instruction list for starting our DnD Adventure.  It is by no means comprehensive, but should help aid and answer some questions
+This is a litle intro and instruction list for starting our DnD 5e Adventure. It is by no means comprehensive, but should help aid and answer some questions. If you end up using other sources, we are playing 5th Edition. 
 
 ## Important Programs
 
-We will be using 2 main progreams for running the campaign, andf you will need accounts for both of them. 
+We will be using 2 main programs for running the campaign, andf you will need accounts for both of them. 
 1. [Roll20](https://roll20.net/welcome)
     1. Where the campaign lives
     2. This is all browserbased, so just open it up as a tab in your chrome/explorer/firefox etc. 
@@ -20,3 +20,5 @@ We will be using 2 main progreams for running the campaign, andf you will need a
 
 [The Players Handbook](https://github.com/OminousFalcon/DnD/blob/main/Player's%20Handbook.eng.pdf)
            1. Hit the Download button after clicking this link to download the file locally (Highly recommend doing this, you will likely refer to this alot)
+Creating a character
+    1. Who do you want to be? There are 9 basic races and 12 classes. Mix and match however you would like.
